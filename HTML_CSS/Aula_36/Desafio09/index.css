@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font: bold 45px Arial;
+    color: white;
+    text-align: center;
+}
+
+a{
+    font: 22px "Calibri Light";
+    color: white;
+    display: block;
+    text-align: center;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table{
+    margin: auto;
+}
