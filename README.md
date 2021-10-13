@@ -8,5 +8,9 @@ de apoio em forma de e-book com 30 capítulos ao todo.
 
 <hr>
 
+<strong>Página do Projeto: </strong> <a href="https://edijunior88.github.io/Curso_em_Video_HTML5_e_CSS3/">https://edijunior88.github.io/Curso_em_Video_HTML5_e_CSS3/</a>
+
+<hr>
+
 <h4><b>Aulas:</b> :blue_book: 30 capítulos e-book + 40 Video-Aulas no Youtube</h4>
 <h4><b>Status do Curso:</b> :white_check_mark: Concluído 1º módulo
