@@ -12,5 +12,11 @@ de apoio em forma de e-book com 30 capítulos ao todo.
 
 <hr>
 
+<h3>Tecnologias Utilizadas</h3>
+
+Para ver todas as tecnologias [clique aqui](/techstack.md)
+
+<hr>
+
 <h4><b>Aulas:</b> :blue_book: 30 capítulos e-book + 40 Video-Aulas no Youtube</h4>
 <h4><b>Status do Curso:</b> :white_check_mark: Concluído 1º módulo
